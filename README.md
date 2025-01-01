@@ -5,10 +5,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 ## About Me
 
 - 💻 **Software Developer** with experience in web development, mobile applications, and cloud computing.
-- 🎓 **Education:** Bachelor of Science in Computer Science from XYZ University.
-- 🌱 **Currently Learning:** Advanced concepts in AI and machine learning.
-- 🔭 **Working On:** Developing scalable microservices and contributing to open-source projects.
-
+- 🎓 **Education:** Bachelor of Science in Computer Science from ILMA University.
 ## Skills
 
 - **Programming Languages:** Python, JavaScript, Java, C++
